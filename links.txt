@@ -1,0 +1,5 @@
+https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html
+https://stackoverflow.com/questions/38189951/opencv-dense-optical-flow-matrix
+https://docs.opencv.org/master/dd/d1a/group__imgproc__feature.html#ga1d6bb77486c8f92d79c8793ad995d541
+https://docs.opencv.org/3.4/dc/d6b/group__video__track.html#ga5d10ebbd59fe09c5f650289ec0ece5af
+https://gist.github.com/danoneata/9927923
